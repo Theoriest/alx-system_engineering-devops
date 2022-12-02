@@ -4,3 +4,4 @@ file 2 contains command cd ~
 file 3 contains command ls -l
 file 4 contains command ls -la
 file 5 contains command ls -nla
+file 6 contains command mkdir my_first_directory
