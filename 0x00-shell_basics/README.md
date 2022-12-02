@@ -7,3 +7,4 @@ file 5 contains command ls -nla
 file 6 contains command mkdir my_first_directory
 file7 contains command mv /tmp/betty /tmp/my_first_directory
 file 8 contains command rm /tmp/my_first_directory/betty
+file 9contains command rmdir /tmp/my_first_directory
